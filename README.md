@@ -27,43 +27,43 @@
 
 ### TABLE一覧
 > #### dat_member
->>code(int)  
->>date(datatime)   
->>password(varcher)  
->>name(varcher)  
->>email(varcher)  
->>postal1(varcher)  
->>postal2(varcher)  
->>address(varcher)  
->>tel(varcher)  
->>danjo(int(1=男、2=女))  
->>born(int)
+>>code(int)<br>
+>>date(datatime)<br> 
+>>password(varcher)<br> 
+>>name(varcher)<br>
+>>email(varcher)<br>
+>>postal1(varcher)<br>
+>>postal2(varcher)<br>
+>>address(varcher)<br>
+>>tel(varcher)<br>
+>>danjo(int(1=男、2=女))<br> 
+>>born(int)<br>
 
 > #### dat_sales
->>code(int)  
->>date(datatime)  
->>password(varcher)
->>name(varcher)
->>email(varcher)
->>postal1(varcher)
->>postal2(varcher)
->>address(varcher)
->>tel(varcher)
+>>code(int)<br>
+>>date(datatime)<br>
+>>password(varcher)<br>
+>>name(varcher)<br>
+>>email(varcher)<br>
+>>postal1(varcher)<br>
+>>postal2(varcher)<br>
+>>address(varcher)<br>
+>>tel(varcher)<br>
 
 > #### dat_sales_product
->>code(int)
->>code_sales(int)
->>code_product(int)
->>price(int)
->>quantity(int)
+>>code(int)<br>
+>>code_sales(int)<br>
+>>code_product(int)<br>
+>>price(int)<br>
+>>quantity(int)<br>
 
 > #### mst_product
->> code(int)
->>name(varcher)
->>price(int)
->>gazou(varchar)
+>> code(int)<br>
+>>name(varcher)<br>
+>>price(int)<br>
+>>gazou(varchar)<br>
 
 > #### mst_staff
->> code(int)
->>name(varchar)
->>password(varchar)
+>> code(int)<br>
+>>name(varchar)<br>
+>>password(varchar)<br>
